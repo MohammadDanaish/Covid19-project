@@ -1,0 +1,100 @@
+CSV File Name:- Covid19_country_latest (11X195)
+
+Variables Name                                 Description
+Country / Region		Country Names
+Confirmed 		Confirmed Cases of Covid-19
+Deaths			Deaths by Covid-19
+Recovered		Recovered by Covid-19
+Active			Active cases of Covid-19
+New confirmed		New confirmed cases of covid-19
+New deaths		New deaths cases of covid-19
+New recovered		New recovered cases of covid-19
+Recovery rate(per 100)	recovery rate of covid-19
+Mortality rate(per 100)	Mortality rate of covid-19
+WHO region		WHO regions .
+----------------------------------------------------------------------------------------------------
+CSV File Name:- Covid19_date_country (10x107671)
+
+Variables Name                                 Description
+Date			Dates
+Country / Region		Country Names
+Confirmed 		Confirmed Cases of Covid-19
+Deaths			Deaths by Covid-19
+Recovered		Recovered by Covid-19
+Active			Active cases of Covid-19
+New confirmed		New confirmed cases of covid-19
+New deaths		New deaths cases of covid-19
+New recovered		New recovered cases of covid-19
+WHO region		WHO regions.
+
+-----------------------------------------------------------------------------------------------------
+CSV File Name:- Covid19_india (10x556)
+
+Variables Name                                 Description
+Date			Dates
+Country / Region		Country Names
+Confirmed 		Confirmed Cases of Covid-19
+Deaths			Deaths by Covid-19
+Recovered		Recovered by Covid-19
+Active			Active cases of Covid-19
+New confirmed		New confirmed cases of covid-19
+New deaths		New deaths cases of covid-19
+New recovered		New recovered cases of covid-19
+WHO region		WHO regions.
+
+-----------------------------------------------------------------------------------------------------
+
+CSV File Name:- Covid19_World (11x556)
+
+Variables Name                                 Description
+Date			Dates
+Country / Region		Country Names
+Confirmed 		Confirmed Cases of Covid-19
+Deaths			Deaths by Covid-19
+Recovered		Recovered by Covid-19
+Active			Active cases of Covid-19
+New confirmed		New confirmed cases of covid-19
+New deaths		New deaths cases of covid-19
+New recovered		New recovered cases of covid-19
+WHO region		WHO regions.
+
+
+-----------------------------------------------------------------------------------------------------
+
+CSV File Name:- Happiness (9x157)
+Variables Name                           			      Description
+Overall rank					Rank of the country
+Country or region					country Name
+Score						whats the score of country
+GDP per capita					whats the GDP of country
+Social support					Social support rating 
+Healthy life expectancy				whats the healthy life expectancy
+Freedom to make life choices	Generosity		Freedom to make life choices	Generosity rating
+Perceptions of corruption				Corruption ratings
+
+-----------------------------------------------------------------------------------------------------
+
+CSV File Name:- Population (11x236)
+Variables Name                           			      Description
+
+Country (or dependency)				Country Name
+Population (2020)					Population in a respective countery
+Yearly Change(percent)				yearly change in percentage
+Net Change					Total change in number
+Density (P/KmÂ²)					Dencity of country
+Land Area (KmÂ²)					Land area of country
+Migrants (net)					Number of Migrants i a country 
+Fert. Rate						fertatility rate of country
+Med. Age						Average / median age of the ppls in a country			
+Urban Pop(percent) 				Urban population
+World Share(percent)				World share wrt country in percent.
+
+
+-----------------------------------------------------------------------------------------------------
+
+CSV File Name:- WHO regions (2x219)
+Variables Name                           			      Description
+Country						Country Name
+Region Name 					Which region country fall
+
+--------------------------------------------------------------------------------------------------------
