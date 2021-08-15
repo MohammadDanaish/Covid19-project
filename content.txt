@@ -1,0 +1,5 @@
+there are 4 folders.
+1) Code :- it contains PDF 2 files as well as IPNYB 2 files (Jupyter notebook).
+2) Data in CSV :- it contains all Data which we gather and created.
+3) Documentation :- it contains my approach PDF files and Data Dictionary.
+4) Project ss :- it contains all snapshoot which is required in report.
